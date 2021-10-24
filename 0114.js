@@ -25,6 +25,5 @@
           root.right = root.left;
           root.left = null;
       }
-     
   }
 };
